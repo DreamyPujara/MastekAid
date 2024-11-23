@@ -40,7 +40,7 @@ To use the PDF Intelligence System:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/ArmaanSeth/ChatPDF.git
+   git clone https://github.com/DreamyPujara/MastekAid.git
    ```
 
 2. Install dependencies.
